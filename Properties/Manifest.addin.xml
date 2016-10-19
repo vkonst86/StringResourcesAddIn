@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+	<Extension path = "/MonoDevelop/Ide/Commands/Edit">
+        <Command id = "StringResourcesAddIn.StringResourcesCommands.ExtractToStringResources"
+             _label = "Extract To String Resources"
+             defaultHandler = "StringResourcesAddIn.StringResourcesHandler" />
+    </Extension>
+
+    <Extension path = "/MonoDevelop/Ide/MainMenu/Edit">
+        <CommandItem id="StringResourcesAddIn.StringResourcesCommands.ExtractToStringResources" />
+    </Extension>
+</ExtensionModel>
