@@ -1,0 +1,12 @@
+<AddinProject appVersion="1.0">
+	<Project platforms="Mac Linux">
+		<AddinFile>bin/Release/StringResourcesAddIn.dll</AddinFile>
+		<BuildFile>StringResourcesAddIn.sln</BuildFile>
+		<BuildConfiguration>Release</BuildConfiguration>
+	</Project>
+	<Project platforms="Win32">
+		<AddinFile>bin/Release/StringResourcesAddIn.dll</AddinFile>
+		<BuildFile>StringResourcesAddIn.sln</BuildFile>
+		<BuildConfiguration>Release</BuildConfiguration>
+	</Project>
+</AddinProject>
