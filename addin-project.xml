@@ -1,7 +1,7 @@
-<AddinProject appVersion="1.1">
+<AddinProject appVersion="6.0">
 	<Project>
-		<AddinFile>bin/release/stringresourcesaddin.dll</AddinFile>
+		<AddinFile>bin/Release/StringResourcesAddIn.dll</AddinFile>
 		<BuildFile>StringResourcesAddIn.sln</BuildFile>
-		<BuildConfiguration>release</BuildConfiguration>
+		<BuildConfiguration>Release</BuildConfiguration>
 	</Project>	
 </AddinProject>
